@@ -1,0 +1,12 @@
+development:
+  password: shptka_d74a860258d180ccda318c643456a9cc
+  theme_id: "125393666213"
+  store: doob-dev.myshopify.com
+  directory: './dawn'
+  ignore_files:
+    - "*.gif"
+    - "*.jpg"
+    - config/settings_data.json
+    - assets/page.custom.css
+    - assets/custom.css*
+    - locales/ko.json
